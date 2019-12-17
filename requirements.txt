@@ -34,7 +34,7 @@ python-dateutil==2.8.0
 pytz==2019.3
 PyYAML==3.12
 redis==3.3.11
-requests==2.18.4
+requests==2.20.0
 simple-salesforce==0.74.3
 six==1.12.0
 texttable==0.9.1
