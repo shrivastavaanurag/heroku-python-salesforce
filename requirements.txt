@@ -23,7 +23,7 @@ jsonschema==2.6.0
 lazy-object-proxy==1.4.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
